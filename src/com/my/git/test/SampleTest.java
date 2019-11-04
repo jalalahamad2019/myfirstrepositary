@@ -4,6 +4,8 @@ public class SampleTest {
 public static void main(String[] args) {
 	System.out.println("My data 2");
 	System.out.println("My data 1");
+	System.out.println("My data 100");
+	System.out.println("My data 1000");
 	
 }
 }
